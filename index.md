@@ -1,4 +1,4 @@
 ---
-title: __Welcome to my blog__
+title: **Welcome to my blog**
 ---
 
