@@ -1,4 +1,4 @@
 ---
-title: <strong>Welcome to my blog</strong>
+title:  <strong> Welcome to my blog </strong>
 ---
 
